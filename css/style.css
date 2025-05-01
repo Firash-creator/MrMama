@@ -43,7 +43,8 @@ body {
 }
 
 
-
+h1.head {line-height: 70%;}
+h1.bottom {line-height: 70%;}
 
 h2 {
   font-family: 'Allura' ;
