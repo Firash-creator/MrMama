@@ -522,24 +522,7 @@ a:focus {
   color: #ffffff
 }
 
-.OrderNewProduct {
-  padding: 8px 30px;
-  margin-top: 75%;
-  margin-left: 30%;
-  text-align: center;
-  background-color: #ffbe33;
-  color: #ffffff;
-  border-radius: 45px;
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-  border: none;
-  z-index: 10;
-}
 
-.OrderNewProduct:hover {
-  background-color: #e69c00;
-  color: #ffffff
-}
 
 @import "bourbon";
 @import "neat";
