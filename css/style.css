@@ -1817,7 +1817,6 @@ a{
 .section h1{
   font-size: 450%;
   font-weight: 900;
-  margin-left: -10%;
   text-transform: uppercase;
   text-align: center;
 }
@@ -1825,7 +1824,6 @@ a{
 .section a{
   font-weight: 700;
   letter-spacing: 7px;
-  margin-left: -10%;
   text-transform: uppercase;
   text-align: center;
 }
