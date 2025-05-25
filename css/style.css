@@ -1212,10 +1212,12 @@ color:rgb(238, 238, 238);
   }
 
   .OrderNewProduct {
-    width: 50%;
-    margin-top: 27%;
-    height: 45%;
-    font-size :medium ;
+    width: 40%;
+    margin-top: 30%;
+    margin-left: 30%;
+    margin-right: 0%;
+    height: 40%;
+    font-size :-10% ;
     text-align: center;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
